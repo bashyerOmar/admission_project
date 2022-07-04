@@ -7,7 +7,7 @@ Admission project:
 Admission project link:
     http://50.19.89.100/home
 
-###Skills:
+Skills:
     - Web Security
     - Object Relational Mapper(ORM)
     - OOP Design Principals
